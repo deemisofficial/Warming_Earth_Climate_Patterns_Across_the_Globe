@@ -5,10 +5,15 @@ This project provides a comprehensive analysis of global temperature changes fro
 
 # Through data wrangling and rich visualization, this project aims to:
 📈 Identify countries most and least affected by the temperature rise in the last decade.
+
 🍁 Explore seasonal variations and their relationship with climate patterns.
+
 🌐 Visualize global trends and anomalies using heatmaps, choropleth maps, and animated charts.
+
 📊 Track climate evolution across time and geographies.
+
 🔬 The results of this project are visualized with intuitive and interactive plots to promote better understanding and awareness of climate change patterns.
+
 
 # Tools & Technologies
 🐍 Python
@@ -18,8 +23,13 @@ This project provides a comprehensive analysis of global temperature changes fro
 🌍 Plotly Choropleth Maps – for geospatial search mapping
 
 # 🧠 Key Insights
+
 🌡️ Northern & Eastern Europe, Arctic zones have seen >1.5°C rise in temperatures.
+
 🌴 Tropical regions remain relatively stable, but seasonal swings are evident.
+
 📉 A strong upward trend in anomalies post-1990 suggests alarming acceleration.
+
 🧭 Some regions lack full temperature records, highlighting gaps in global monitoring.
+
 
