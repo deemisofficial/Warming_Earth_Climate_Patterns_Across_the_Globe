@@ -43,5 +43,5 @@ This project provides a comprehensive analysis of global temperature changes fro
 
 ---
 Visualization
-![Temperature changing behaviour globally](temp_change_globally.mp4)
+![Temperature changing behaviour globally](Temperature_changes.jpg)
 
