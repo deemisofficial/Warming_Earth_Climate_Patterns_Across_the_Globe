@@ -17,10 +17,15 @@ This project provides a comprehensive analysis of global temperature changes fro
 
 # Tools & Technologies
 🐍 Python
+
 🧪 Pandas, NumPy – for data processing
+
 📊 Seaborn, Matplotlib, Plotly – for visualizations
+
 🌐 PyTrends – Google Trends data extraction
+
 🌍 Plotly Choropleth Maps – for geospatial search mapping
+
 
 # 🧠 Key Insights
 
