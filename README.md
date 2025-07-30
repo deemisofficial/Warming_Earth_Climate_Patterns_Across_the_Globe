@@ -3,6 +3,8 @@
 # Project Description
 This project provides a comprehensive analysis of global temperature changes from 1961 to the most recent available data using historical climate records. By leveraging powerful data science tools and libraries, the analysis reveals spatial and temporal climate trends affecting our planet.
 
+---
+
 # Through data wrangling and rich visualization, this project aims to:
 📈 Identify countries most and least affected by the temperature rise in the last decade.
 
@@ -14,6 +16,7 @@ This project provides a comprehensive analysis of global temperature changes fro
 
 🔬 The results of this project are visualized with intuitive and interactive plots to promote better understanding and awareness of climate change patterns.
 
+---
 
 # Tools & Technologies
 🐍 Python
@@ -26,6 +29,7 @@ This project provides a comprehensive analysis of global temperature changes fro
 
 🌍 Plotly Choropleth Maps – for geospatial search mapping
 
+---
 
 # 🧠 Key Insights
 
@@ -37,4 +41,7 @@ This project provides a comprehensive analysis of global temperature changes fro
 
 🧭 Some regions lack full temperature records, highlighting gaps in global monitoring.
 
+---
+Visualization
+![Temperature changing behaviour globally](temp_change_globally.mp4)
 
